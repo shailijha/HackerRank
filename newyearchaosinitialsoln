@@ -1,0 +1,58 @@
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
+using System;
+
+class Solution {
+
+    // Complete the minimumBribes function below.
+    static void minimumBribes(int[] q) {
+        int sum = 0;
+        bool flag = false;
+        for(int idx = 0; idx < q.Length; idx++) {
+            int diff = (idx+1) - q[idx];
+            if( diff < 0 && diff > -3) {
+                sum += Math.Abs(diff);
+            }
+            else if(diff > 3) {
+                sum += 1;
+            }
+            else if(diff <= -3) {
+                Console.WriteLine("Too chaotic");
+                flag = true;
+            }
+        }
+        if(sum > 0 && !flag)
+        {
+            Console.WriteLine(sum);
+        }
+
+    }
+
+    static int Swap(int[] q, int i, int j) {
+        int tmp = q[i];
+        q[i] = q[j];
+        q[j] = tmp;
+    }
+
+    static void Main(string[] args) {
+        int t = Convert.ToInt32(Console.ReadLine());
+
+        for (int tItr = 0; tItr < t; tItr++) {
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            int[] q = Array.ConvertAll(Console.ReadLine().Split(' '), qTemp => Convert.ToInt32(qTemp))
+            ;
+            minimumBribes(q);
+        }
+    }
+}
