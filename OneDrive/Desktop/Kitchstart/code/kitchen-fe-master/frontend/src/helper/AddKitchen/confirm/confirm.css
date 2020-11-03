@@ -1,0 +1,152 @@
+.confirm-title {
+    position: absolute;
+    width: 249px;
+    height: 18px;
+    left: 340px;
+    top: 110px;
+    font-size: 22px;
+    line-height: 18px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #215512;
+}
+
+.confirm-title {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.confirm-text {
+    position: absolute;
+    width: 870px;
+    height: 30px;
+    left: 340px;
+    top: 140px;
+    /* top: 490px; */
+    font-family: Khmer MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: justify;
+    /* or 125% */
+    display: flex;
+    align-items: center;
+    color: #080808;
+}
+
+.upload {
+    position: absolute;
+    content: url('./../../../assets/icons/upload.svg');
+    margin-left: 370px;
+    margin-top: 218px;
+    width: 60px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.upload-rect {
+    position: absolute;
+    width: 110px;
+    height: 105px;
+    left: 360px;
+    top: 235px;
+    background: #FFFFFF;
+    border: 2px solid #215512;
+    box-sizing: border-box;
+}
+
+.check-rect {
+    position: absolute;
+    width: 21px;
+    height: 20px;
+    left: 340px;
+    top: 630px;
+    background: #FFFFFF;
+    border: 2px solid #215512;
+    box-sizing: border-box;
+}
+
+.submit-btn {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    left: 898px;
+    top: 750px;
+    background: #215512;
+    border: 2px solid #215512;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.submit-txt {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 18px;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+
+.group-picture {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    margin-left: 500px;
+    margin-top: 185px;
+}
+
+.upload-btn {
+    position: absolute;
+    width: 102px;
+    height: 31px;
+    left: 540px;
+    top: 270px;
+    border-radius: 5px;
+    border: 2px solid #215512;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+}
+
+.upload-txt {
+    position: absolute;
+    font-family: Khmer MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 7px;
+    margin-left: 5px;
+    /* identical to box height, or 167% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #215512;
+}
+
+.card {
+    margin: 50px 0 0;
+}
+
+/*.form-control {
+    padding: .375rem 0;
+    border: none;
+}*/
+
+.preview img {
+    max-width: 100px;
+}
+
+.multi-preview img {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 650px;
+    max-width: 100px;
+    padding: 5px;
+}

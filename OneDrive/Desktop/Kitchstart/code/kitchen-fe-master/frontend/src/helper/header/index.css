@@ -1,0 +1,176 @@
+/* @media screen and (min-width:700px) {}
+
+@media screen and (max-width:600px) {
+  body, html {
+    height: 60%;
+    /* position: absolute; */
+
+/* min-height: 70vh;
+    width: 450px; */
+
+/* width: auto; */
+
+/*body, html {
+  height: 100%;
+}*/
+
+.bg {
+  background-image: url("./../../assets/images/basil-delicious-food-ingredients-459469.png");
+  height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.ad-kitch {
+  /* position: relative; */
+  width: 130px;
+  height: 25px;
+  margin-top: 2px;
+  margin-left: 830px;
+  /* margin-right: 20px; */
+  border: 2px solid #D7210A;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background: #D7210A;
+  /* background: rgba(255, 255, 255, 0.0001); */
+}
+
+.ad-kitch-btn-txt {
+  font-family: KhmerMN;
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: -2px;
+  margin-left: 7px;
+  font-weight: bold;
+}
+
+.ad-kitch-img {
+  content: url('./../../assets/icons/icon_plus.svg');
+  float: left;
+  margin-left: 2px;
+  margin-top: -20px;
+}
+
+.ad-kitch-view {
+  position: absolute;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  font-weight: bold;
+  width: 180px;
+  display: flex;
+  /* vertical-align: middle; */
+  color: #ffffff;
+}
+
+a {
+  color: #0060B6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D7210A;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.fixed-header {
+  background-color: rgba(0,0,0,0.8) !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+.logo {
+  width: 200px;
+}
+#basic-navbar-nav a.nav-link {
+  color: #fff;
+  text-align: left
+}
+
+#basic-navbar-nav a.nav-link:hover {
+  color: #D7210A;
+}
+
+.menu-btn {
+  background-color: #D7210A !important;
+}
+
+.header-navbar {
+  justify-content: flex-end;
+}
+
+.togglebtn {
+  border: none;
+}
+.d-sm-none {
+  display: none;
+}
+
+.menu-splitter {
+  padding: 7px 0px;
+  color: #989898;
+}
+
+@media (max-width: 767px) {
+  nav.fixed-header {
+    padding: 0;
+  }
+  nav.fixed-header a.navbar-brand {
+    padding-left: 1rem;
+  }
+  .logo {
+    width: 144px;
+  }
+  .d-sm-none {
+    display: block !important;
+  }
+  .d-sm-none .MuiButton-label {
+    display: inline-block !important;
+  }
+  .d-xs-none {
+    display: none !important;
+  }
+  #basic-navbar-nav .navbar-nav a {
+    color: #fff;
+  }
+  #basic-navbar-nav {
+    padding: 10px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  nav.fixed-header {
+    padding: 0;
+  }
+  nav.fixed-header a.navbar-brand {
+    padding-left: 1rem;
+  }
+  .logo {
+    width: 144px;
+  }
+  .d-sm-none {
+    display: block !important;
+  }
+  .d-sm-none .MuiButton-label {
+    display: inline-block !important;
+  }
+  .d-xs-none {
+    display: none !important;
+  }
+  #basic-navbar-nav .navbar-nav a {
+    color: #fff;
+  }
+  #basic-navbar-nav {
+    padding: 10px;
+  }
+  .menu-btn {
+    position: relative;
+    left: 30px;
+  }
+}

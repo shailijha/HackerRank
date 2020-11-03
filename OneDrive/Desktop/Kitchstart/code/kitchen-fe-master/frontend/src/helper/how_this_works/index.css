@@ -1,0 +1,36 @@
+.body-content {
+    position: relative;
+    top: 66px;
+}
+.bgwhite{
+    background: #fff;
+}
+.block-content h4 {
+    color: #D7210A;
+    font-family: 'Lato-Bold';
+}
+
+.block-content p span.highlight {
+    color: #D7210A;
+    text-decoration: underline;
+}
+.img-holder img {
+    width: 100%;
+}
+.howitworkscnt {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.heading {
+    color: #D7210A;
+    font-family: 'Lato-Bold';
+}
+
+.sub-heading-green {
+    color: #215512;
+    font-weight: 600;
+    margin: 20px 0px;
+}

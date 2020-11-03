@@ -1,0 +1,225 @@
+.HomeImage {
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: -18px;
+}
+
+.footer-style {
+  padding-top: 1.5%;
+  left: 2.54%;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+.about-us {
+  font-size: 20px;
+  padding-bottom: 19px;
+  padding-top: 21px;
+}
+
+.about-us-content {
+  padding-bottom: 60px;
+  font-style: normal;
+}
+
+.subscribe-button {
+  position: absolute;
+  /* left: 25.2%; */
+  /* right: 66.89%; */
+  /* top: 62.99%; */
+  /* bottom: 24.02%; */
+  background: #ffffff;
+  height: 37px;
+  font-family: KhmerMN;
+  font-size: 14px;
+  line-height: 16px;
+  width: 80px;
+}
+
+.subscribe {
+  margin-top: 20px;
+}
+
+.subscribe-input {
+  margin-right: 15px;
+  height: 37px;
+}
+
+.social-icons {
+  padding-top: 16px;
+  margin: auto;
+  display: flex;
+}
+
+.facebook {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-color: #4267b2;
+  text-align: center;
+  margin-right: 10px;
+  padding: 2px;
+}
+
+.twitter {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+.instagram {
+  background: linear-gradient( 45.92deg, #ffdd55 6.61%, #ff543e 50.05%, #c837ab 93.49%);
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  border-radius: 9px;
+  margin-right: 10px;
+  display: inline-block;
+}
+.linkedin {
+  width: 24px;
+  height: 24px;
+  background: #fff;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.contactFont {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.email {
+  padding-bottom: 25px;
+  padding-top: 25px;
+  font-style: normal;
+}
+
+.phone {
+  font-style: normal;
+}
+
+.social {
+  padding-top: 42px;
+}
+
+.instagram-icon {
+  content: url(./../../assets/icons/instagram.png);
+  width: 100%;
+  height: 100%;
+}
+
+.twitter-icon {
+  content: url(./../../assets/icons/twitter.png);
+  padding-top: 2px;
+  width: 100%;
+  height: 100%;
+}
+
+.linkedin-icon {
+  content: url(./../../assets/icons/linkedin.png);
+  width: 100%;
+  height: 100%;
+}
+
+.facebook-icon {
+  content: url(./../../assets/icons/fb.png);
+  height: 100%;
+}
+
+.AppLogo {
+  position: absolute;
+  left: 0%;
+  right: 80.47%;
+  top: 0%;
+  bottom: 0%;
+  background-image: url(./../../assets/images/finalLogo.svg);
+}
+
+.button {
+  position: absolute;
+  height: 27px;
+  left: 47.69%;
+  right: 40.14%;
+  top: calc(50% - 27px / 2 + 2px);
+  font-family: KhmerMN;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  color: #fcfaf8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.menu {
+  padding-bottom: 23px;
+}
+
+.anchor {
+  text-decoration: none;
+  color: inherit;
+}
+
+.anchor:hover {
+  text-decoration: none;
+}
+
+.latest-article {
+  padding-top: 19px;
+}
+
+.App-Footer {
+  background-color: #322f2f;
+  color: #fff;
+}
+
+.copyrights {
+  font-size: 12px;
+  text-align: center;
+}
+
+.footer-links {
+  list-style-type: none;
+  padding: 0;
+}
+.footer-links li a {
+  text-decoration: none;
+}
+
+.footer-links li {
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.footer-links li a:hover {
+  text-decoration: none;
+  color: #D7210A;
+}
+.footer-content {
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.subscriberForm span {
+  display: inline-block;
+}
+
+.subscriberForm span:last-child {
+  margin-left: 3px;
+}
+.subscriberForm span:last-child button {
+  margin-top: -5px;
+}
+.footer-input {
+  border: 0px;
+  border-radius: 0px;
+}
+.footer-btn {
+  border-radius: 0px;
+}

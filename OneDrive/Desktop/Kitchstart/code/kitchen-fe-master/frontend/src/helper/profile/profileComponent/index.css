@@ -1,0 +1,32 @@
+.profile-icon {
+    /* position: absolute; */
+    content: url('./../../../assets/icons/user_profile.svg');
+}
+
+.name {
+    margin-left: 40%;
+    margin-top: 10%;
+    display: flex; 
+    align-items: center;
+}
+
+.email, .phone {
+    margin-left: 40%;
+    margin-top: 3.5%;
+    display: flex; 
+    align-items: center;
+}
+
+@media screen and (max-width: 700px) {
+    .name {
+        margin-left: 40%;
+        margin-top: 25%;
+        display: grid;
+    } 
+
+    .email, .phone {
+        margin-left: 10%;
+        margin-top: 3.5%;
+        
+    }  
+}

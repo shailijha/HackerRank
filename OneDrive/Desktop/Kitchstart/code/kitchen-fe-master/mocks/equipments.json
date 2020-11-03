@@ -1,0 +1,162 @@
+[
+    {
+        "id": "019e3a57-dbee-44b8-8223-3f92e669fe30",
+        "name": "Food Slicer",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:33.000Z",
+        "updatedAt": "2020-07-18T14:15:33.000Z"
+    },
+    {
+        "id": "1755f6b9-2d08-4353-b175-2f789c03ca2b",
+        "name": "Oven",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:12:14.000Z",
+        "updatedAt": "2020-07-18T14:12:14.000Z"
+    },
+    {
+        "id": "1c0bd1f2-828d-4aef-bf78-f073ea356ca3",
+        "name": "Blast Freezer",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:13:44.000Z",
+        "updatedAt": "2020-07-18T14:13:44.000Z"
+    },
+    {
+        "id": "28bf11c3-6078-44e2-bfe0-df8b43ef8434",
+        "name": "Commercial Grinder",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:11:55.000Z",
+        "updatedAt": "2020-07-18T14:11:55.000Z"
+    },
+    {
+        "id": "2eecd999-35e4-4e66-be1d-2f8292a3eb0c",
+        "name": "Cutlery",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:14:36.000Z",
+        "updatedAt": "2020-07-18T14:14:36.000Z"
+    },
+    {
+        "id": "3a89a2f3-b919-4c90-b574-1e0ae0e03cba",
+        "name": "Chargrill",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:13:17.000Z",
+        "updatedAt": "2020-07-18T14:13:17.000Z"
+    },
+    {
+        "id": "4495a6d3-a5eb-457b-b67f-52b1773f807f",
+        "name": "Blender",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:14:56.000Z",
+        "updatedAt": "2020-07-18T14:14:56.000Z"
+    },
+    {
+        "id": "4afb79fb-9076-4e48-b3cf-d229ce8f0234",
+        "name": "Commercial Burner",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:11:00.000Z",
+        "updatedAt": "2020-07-18T14:11:00.000Z"
+    },
+    {
+        "id": "591688c5-836a-4123-b85d-5f28663a753f",
+        "name": "Dough Mixer",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:45.000Z",
+        "updatedAt": "2020-07-18T14:15:45.000Z"
+    },
+    {
+        "id": "5b336579-21bf-4ef9-8570-9041af3e10d9",
+        "name": "Ice Cream Maker",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:14:48.000Z",
+        "updatedAt": "2020-07-18T14:14:48.000Z"
+    },
+    {
+        "id": "67d3a226-0133-47ef-b4c0-1707e6f9fd9c",
+        "name": "Waffle Iron",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:14:14.000Z",
+        "updatedAt": "2020-07-18T14:14:14.000Z"
+    },
+    {
+        "id": "8cfc7baf-d485-4897-bf51-d852bbf698f5",
+        "name": "Juicer",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:02.000Z",
+        "updatedAt": "2020-07-18T14:15:02.000Z"
+    },
+    {
+        "id": "a2589217-5d43-4413-9b7d-6818b79c0842",
+        "name": "Domestic Microwave",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:12:31.000Z",
+        "updatedAt": "2020-07-18T14:12:31.000Z"
+    },
+    {
+        "id": "abfbb9b0-8c79-415f-a8b2-19a94ab8e39f",
+        "name": "Steamer",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:13:29.000Z",
+        "updatedAt": "2020-07-18T14:13:29.000Z"
+    },
+    {
+        "id": "ae7f61bc-18bb-4053-a20a-5d21fc18ae29",
+        "name": "Servingware",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:24.000Z",
+        "updatedAt": "2020-07-18T14:15:24.000Z"
+    },
+    {
+        "id": "b70ff776-24a9-4714-a9b7-769d6d372025",
+        "name": "Toaster",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:14:23.000Z",
+        "updatedAt": "2020-07-18T14:14:23.000Z"
+    },
+    {
+        "id": "b99f3620-c03a-4982-80aa-8add40c240ec",
+        "name": "Barbecue",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:54.000Z",
+        "updatedAt": "2020-07-18T14:15:54.000Z"
+    },
+    {
+        "id": "be882e36-03e9-4415-aae5-fb2b15b07ba8",
+        "name": "Food Processor",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:11:38.000Z",
+        "updatedAt": "2020-07-18T14:11:38.000Z"
+    },
+    {
+        "id": "d7d026e0-3a86-485d-9503-a0c2201e55ba",
+        "name": "Tandoor",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:13:06.000Z",
+        "updatedAt": "2020-07-18T14:13:06.000Z"
+    },
+    {
+        "id": "ed12976a-3ed1-4fec-a92d-f17cf201f3e7",
+        "name": "Pizza Oven",
+        "icon_url": "http://icon-url",
+        "is_active": true,
+        "createdAt": "2020-07-18T14:15:10.000Z",
+        "updatedAt": "2020-07-18T14:15:10.000Z"
+    }
+]

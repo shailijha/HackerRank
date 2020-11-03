@@ -1,0 +1,61 @@
+/*body, html {
+  height: 50%;
+}*/
+
+.contact-login, .contact-subject {
+  background: rgba(255, 255, 255, 0.8);
+  border: 2px solid #D7210A;
+  border-radius: 5px;
+  width: 110%;
+  /* background: rgba(33, 85, 18, 0.6); */
+}
+
+@media (max-width: 767px) {
+  .contact-login {
+    width: 90%;
+  }
+}
+
+.contact-subject {
+  height: 100%;
+}
+
+ul li a {
+  float: left;
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+.icon-contact {
+  font-size: '50px';
+  color: 'red';
+}
+
+.contact-media {
+  font-size: 40px
+}
+
+.contact-bg {
+  background-image: url("./../../assets/images/contactBanner.png");
+  height: 30vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  opacity: 1;
+}
+
+.reach-kitch {
+  width: 55%;
+  background-color: #d7210a;
+  border-color: #d7210a;
+  color: #FBFBFB;
+  margin-left: 25%;
+}
+
+.contact-subtitle {
+  width: 50%;
+  font-size: 15px;
+  letter-spacing: 2px;
+  color: #215512;
+}

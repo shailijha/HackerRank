@@ -1,0 +1,288 @@
+[
+    {
+        "id": "593122fc-92dc-49c2-b9be-431b2038f456",
+        "title": "second kitchen",
+        "description": "this is the second kitchen",
+        "size": "1500",
+        "is_verified": false,
+        "ownership_type": "agent",
+        "createdAt": "2020-07-18T14:44:44.000Z",
+        "updatedAt": "2020-07-18T14:44:44.000Z",
+        "kitchen_addresses": [
+            {
+                "id": "530ffe61-f403-474c-86cf-58374bbeacf9",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "address_line_1": "Lane 1",
+                "address_line_2": "Ashok Nagar",
+                "zipcode": "600033",
+                "city": "Chennai",
+                "state": "Tamil Nadu",
+                "latitude": 54.336454,
+                "longitude": 23.4677364,
+                "createdAt": "2020-07-18T14:54:03.000Z",
+                "updatedAt": "2020-07-18T14:54:03.000Z"
+            }
+        ],
+        "kitchen_images": [
+            {
+                "id": "53ec2161-6d78-4aa5-a81a-fc6737903f8b",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "image_url": "http://image-url-two",
+                "size": "250",
+                "dimensions": null,
+                "createdAt": "2020-07-18T14:47:05.000Z",
+                "updatedAt": "2020-07-18T14:47:05.000Z"
+            }
+        ],
+        "kitchen_pricings": [
+            {
+                "id": "3f4d25a0-c512-489c-9776-36e1a66cdd61",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "sale_type": "Rent",
+                "price_model": "Hourly",
+                "price": "500",
+                "deposit": "1000",
+                "occupancy_type": "Shared",
+                "createdAt": "2020-07-18T14:46:43.000Z",
+                "updatedAt": "2020-07-18T14:46:43.000Z"
+            }
+        ],
+        "kitchen_facilities": [
+            {
+                "id": "d7b16f31-db54-4c12-9b06-fa1c26e8bcba",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "facility_id": "40d2656b-29e8-4385-9ec8-5b73929acbef",
+                "createdAt": "2020-07-18T14:49:54.000Z",
+                "updatedAt": "2020-07-18T14:49:54.000Z",
+                "facility": {
+                    "id": "40d2656b-29e8-4385-9ec8-5b73929acbef",
+                    "name": "Gas Line",
+                    "category": "Basic",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:24:28.000Z",
+                    "updatedAt": "2020-07-18T14:24:28.000Z"
+                }
+            },
+            {
+                "id": "c37de892-9586-4321-9a8b-ebc89bed8f74",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "facility_id": "f210a703-3e88-472f-bf00-4457a139bea3",
+                "createdAt": "2020-07-18T14:49:30.000Z",
+                "updatedAt": "2020-07-18T14:49:30.000Z",
+                "facility": {
+                    "id": "f210a703-3e88-472f-bf00-4457a139bea3",
+                    "name": "Fire safety system",
+                    "category": "Basic",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:25:33.000Z",
+                    "updatedAt": "2020-07-18T14:25:33.000Z"
+                }
+            },
+            {
+                "id": "4b337d43-2af1-4b39-9508-31e4b2197feb",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "facility_id": "64b88433-86f2-4f3c-8f9d-6fe7abc74924",
+                "createdAt": "2020-07-18T14:49:44.000Z",
+                "updatedAt": "2020-07-18T14:49:44.000Z",
+                "facility": {
+                    "id": "64b88433-86f2-4f3c-8f9d-6fe7abc74924",
+                    "name": "Dining space",
+                    "category": "Basic",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:24:39.000Z",
+                    "updatedAt": "2020-07-18T14:24:39.000Z"
+                }
+            }
+        ],
+        "kitchen_equipments": [
+            {
+                "id": "803e650b-4f88-42d9-b386-e83068f43a42",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "equipment_id": "4afb79fb-9076-4e48-b3cf-d229ce8f0234",
+                "createdAt": "2020-07-18T14:48:52.000Z",
+                "updatedAt": "2020-07-18T14:48:52.000Z",
+                "equipment": {
+                    "id": "4afb79fb-9076-4e48-b3cf-d229ce8f0234",
+                    "name": "Commercial Burner",
+                    "icon_url": "http://icon-url",
+                    "is_active": true,
+                    "createdAt": "2020-07-18T14:11:00.000Z",
+                    "updatedAt": "2020-07-18T14:11:00.000Z"
+                }
+            },
+            {
+                "id": "0d3b8cc9-a513-402e-9204-c8f2a3cd5bac",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "equipment_id": "591688c5-836a-4123-b85d-5f28663a753f",
+                "createdAt": "2020-07-18T14:47:42.000Z",
+                "updatedAt": "2020-07-18T14:47:42.000Z",
+                "equipment": {
+                    "id": "591688c5-836a-4123-b85d-5f28663a753f",
+                    "name": "Dough Mixer",
+                    "icon_url": "http://icon-url",
+                    "is_active": true,
+                    "createdAt": "2020-07-18T14:15:45.000Z",
+                    "updatedAt": "2020-07-18T14:15:45.000Z"
+                }
+            }
+        ],
+        "kitchen_businesstypes": [
+            {
+                "id": "ec5ce52b-57e1-4d0c-9f7c-eb9cb931eb97",
+                "pid": "593122fc-92dc-49c2-b9be-431b2038f456",
+                "businesstype_id": "6db9e01b-dcf2-4095-acc6-de76c7c2e308",
+                "createdAt": "2020-07-18T14:51:36.000Z",
+                "updatedAt": "2020-07-18T14:51:36.000Z",
+                "businesstype": {
+                    "id": "6db9e01b-dcf2-4095-acc6-de76c7c2e308",
+                    "name": "Recipe Testing",
+                    "createdAt": "2020-07-18T14:02:52.000Z",
+                    "updatedAt": "2020-07-18T14:02:52.000Z"
+                }
+            }
+        ]
+    },
+    {
+        "id": "614af3e3-b95c-4772-992b-306a978f7c4b",
+        "title": "my kitchen",
+        "description": "my kitchen new",
+        "size": "150",
+        "is_verified": false,
+        "ownership_type": "owner",
+        "createdAt": "2020-07-18T13:26:40.000Z",
+        "updatedAt": "2020-07-18T13:26:40.000Z",
+        "kitchen_addresses": [
+            {
+                "id": "a35abda2-a1da-4432-85bd-81c3bdb32b9e",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "address_line_1": "Lane 2",
+                "address_line_2": "White Field",
+                "zipcode": "560066",
+                "city": "Benagluru",
+                "state": "Karnataka",
+                "latitude": 54.336454,
+                "longitude": 23.4677364,
+                "createdAt": "2020-07-18T14:57:50.000Z",
+                "updatedAt": "2020-07-18T14:57:50.000Z"
+            }
+        ],
+        "kitchen_images": [
+            {
+                "id": "50ac554e-727e-4aca-b3ef-66c80e14aecd",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "image_url": "http://image-url",
+                "size": "250",
+                "dimensions": null,
+                "createdAt": "2020-07-18T13:39:36.000Z",
+                "updatedAt": "2020-07-18T13:39:36.000Z"
+            }
+        ],
+        "kitchen_pricings": [
+            {
+                "id": "e1eddc2a-1aee-4ca6-abbd-f3947db187ec",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "sale_type": "Rent",
+                "price_model": "Weekly",
+                "price": "1000",
+                "deposit": "10000",
+                "occupancy_type": "Private",
+                "createdAt": "2020-07-18T13:51:59.000Z",
+                "updatedAt": "2020-07-18T13:51:59.000Z"
+            }
+        ],
+        "kitchen_facilities": [
+            {
+                "id": "9f221cb4-0a5a-46cd-bd2d-5ec59b0e1d4e",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "facility_id": "d26de845-60ca-4ba6-bb68-887cf6757689",
+                "createdAt": "2020-07-18T14:32:09.000Z",
+                "updatedAt": "2020-07-18T14:32:09.000Z",
+                "facility": {
+                    "id": "d26de845-60ca-4ba6-bb68-887cf6757689",
+                    "name": "Industrial Dishwasher",
+                    "category": "Cleaning",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:27:18.000Z",
+                    "updatedAt": "2020-07-18T14:27:18.000Z"
+                }
+            },
+            {
+                "id": "7520a480-1fbc-4011-a8a1-3ddad83de44b",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "facility_id": "0a82d6f6-f104-48c5-a31f-47cc4250cc42",
+                "createdAt": "2020-07-18T14:31:10.000Z",
+                "updatedAt": "2020-07-18T14:31:10.000Z",
+                "facility": {
+                    "id": "0a82d6f6-f104-48c5-a31f-47cc4250cc42",
+                    "name": "Sink",
+                    "category": "Cleaning",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:27:04.000Z",
+                    "updatedAt": "2020-07-18T14:27:04.000Z"
+                }
+            },
+            {
+                "id": "29a78fb9-92c5-41c7-9cdd-1e05a83d6084",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "facility_id": "76531925-bc12-45fe-b0c4-b455d2a65793",
+                "createdAt": "2020-07-18T14:31:44.000Z",
+                "updatedAt": "2020-07-18T14:31:44.000Z",
+                "facility": {
+                    "id": "76531925-bc12-45fe-b0c4-b455d2a65793",
+                    "name": "Wifi",
+                    "category": "Basic",
+                    "icon_url": "http://icon-url",
+                    "createdAt": "2020-07-18T14:24:54.000Z",
+                    "updatedAt": "2020-07-18T14:24:54.000Z"
+                }
+            }
+        ],
+        "kitchen_equipments": [
+            {
+                "id": "c77c5b59-63a2-4929-99e7-7db8cbfdf10e",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "equipment_id": "2eecd999-35e4-4e66-be1d-2f8292a3eb0c",
+                "createdAt": "2020-07-18T14:36:35.000Z",
+                "updatedAt": "2020-07-18T14:36:35.000Z",
+                "equipment": {
+                    "id": "2eecd999-35e4-4e66-be1d-2f8292a3eb0c",
+                    "name": "Cutlery",
+                    "icon_url": "http://icon-url",
+                    "is_active": true,
+                    "createdAt": "2020-07-18T14:14:36.000Z",
+                    "updatedAt": "2020-07-18T14:14:36.000Z"
+                }
+            },
+            {
+                "id": "95952043-03f8-4bf1-ad94-6882ac3c0266",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "equipment_id": "be882e36-03e9-4415-aae5-fb2b15b07ba8",
+                "createdAt": "2020-07-18T14:37:35.000Z",
+                "updatedAt": "2020-07-18T14:37:35.000Z",
+                "equipment": {
+                    "id": "be882e36-03e9-4415-aae5-fb2b15b07ba8",
+                    "name": "Food Processor",
+                    "icon_url": "http://icon-url",
+                    "is_active": true,
+                    "createdAt": "2020-07-18T14:11:38.000Z",
+                    "updatedAt": "2020-07-18T14:11:38.000Z"
+                }
+            }
+        ],
+        "kitchen_businesstypes": [
+            {
+                "id": "54f7b0c9-d83a-4076-b921-f909d91ec100",
+                "pid": "614af3e3-b95c-4772-992b-306a978f7c4b",
+                "businesstype_id": "09547253-50bd-4fd5-9bf9-8f55a6c23182",
+                "createdAt": "2020-07-18T14:29:31.000Z",
+                "updatedAt": "2020-07-18T14:29:31.000Z",
+                "businesstype": {
+                    "id": "09547253-50bd-4fd5-9bf9-8f55a6c23182",
+                    "name": "Photoshoot",
+                    "createdAt": "2020-07-18T14:02:32.000Z",
+                    "updatedAt": "2020-07-18T14:02:32.000Z"
+                }
+            }
+        ]
+    }
+]

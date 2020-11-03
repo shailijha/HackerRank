@@ -1,0 +1,106 @@
+/* @media screen and (min-width:700px) {
+  body, html {
+    height: 50%;
+  }
+} */
+
+.ReactModal__Overlay {
+  z-index: 999
+}
+
+.modal-open {
+  /* display: flex; */
+  /* vertical-align: middle; */
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-txt {
+  position: absolute;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.welcome-txt {
+  display: flex;
+  width: 251%;
+  text-align: center;
+}
+
+.welcome-logo {
+  width: 60%;
+  content: url('./../../../assets/icons/Logo\ Black.svg');
+}
+
+.email-login, .pwd-login {
+  border-radius: 5px;
+  border: 2px solid #215512;
+  /* background: rgba(33, 85, 18, 0.6); */
+}
+
+.login-txt {
+  text-align: center;
+}
+
+.login-btn {
+  position: absolute;
+  width: 360px;
+  height: 54px;
+  left: 115px;
+  top: 330px;
+  background: #D7210A;
+  border: 2px solid #D7210A;
+  box-sizing: border-box;
+  border-radius: 5px;
+  /* border: 2px solid #D7210A;
+  box-sizing: border-box;
+  background: white;
+  border-radius: 5px; */
+}
+
+.forgot {
+  position: absolute;
+  width: 228px;
+  margin-left: 200px;
+  margin-top: 420px;
+  color: #000000;
+}
+
+.or {
+  position: absolute;
+  margin-left: 260px;
+  margin-top: 460px;
+  font-size: 15px;
+  color: #000000;
+}
+
+.line-path {
+  position: absolute;
+  width: 147px;
+  height: 1px;
+  margin-left: 90px;
+  margin-top: 470px;
+  border: 1px solid #979797;
+}
+
+h4.splitter {
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+}
+
+h4.splitter:before, h4.splitter:after {
+  content: "";
+  flex: 1 1;
+  border: 1px solid #000000;
+  margin: auto;
+}
+
+.gle-img {
+  float: left;
+  content: url('./../../../assets/icons/googleLogo.svg')
+}
+
+:focus {
+  outline: 0 !important;
+}

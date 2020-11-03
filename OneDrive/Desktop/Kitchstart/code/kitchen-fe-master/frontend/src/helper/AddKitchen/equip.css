@@ -1,0 +1,123 @@
+.burner-img, .dosa-img, .food-img, .grinder-img, .oven-img, .micro-img, .domestic-img, .deepfryer-img, .gril-img, .steam-img, .fridge-img, .waffle-img, .toast-img, .ice-img, .blender-img, .juicer-img, .serve-img, .foodslice-img, .mixer-img, .barbeq-img, .cutlery-img, .pizza-img {
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.burner-img {
+    content: url('./../../assets/icons/burner.svg')
+}
+
+.dosa-img {
+    content: url('./../../assets/icons/dosa_plate.svg')
+}
+
+.food-img {
+    content: url('./../../assets/icons/food-processor.svg')
+}
+
+.grinder-img {
+    content: url('./../../assets/icons/grinder.svg')
+}
+
+.oven-img {
+    content: url('./../../assets/icons/oven.svg')
+}
+
+.micro-img {
+    content: url('./../../assets/icons/oven.svg')
+}
+
+.domestic-img {
+    content: url('./../../assets/icons/microwave.svg')
+}
+
+.deepfryer-img {
+    content: url('./../../assets/icons/fryer.svg')
+}
+
+.tandoor-img {
+    content: url('./../../assets/icons/tandoor.svg')
+}
+
+.grill-img {
+    margin-top: 10px;
+    content: url('./../../assets/icons/grill.svg')
+}
+
+.steam-img {
+    content: url('./../../assets/icons/food-steamer.svg')
+}
+
+.fridge-img {
+    content: url('./../../assets/icons/fridge.svg')
+}
+
+.waffle-img {
+    content: url('./../../assets/icons/waffle-iron.svg')
+}
+
+.toast-img {
+    content: url('./../../assets/icons/toaster.svg')
+}
+
+.ice-img {
+    content: url('./../../assets/icons/ice-cream-machine.svg')
+}
+
+.blender-img {
+    content: url('./../../assets/icons/blender.svg')
+}
+
+.juicer-img {
+    content: url('./../../assets/icons/juicer.svg')
+}
+
+.serve-img {
+    content: url('./../../assets/icons/dinner_1.svg')
+}
+
+.foodslice-img {
+    content: url('./../../assets/icons/slicer.svg')
+}
+
+.mixer-img {
+    content: url('./../../assets/icons/bakery.svg')
+}
+
+.barbeq-img {
+    content: url('./../../assets/icons/bbq.svg')
+}
+
+.cutlery-img {
+    content: url('./../../assets/icons/Cutlery.svg')
+}
+
+.pizza-img {
+    content: url('./../../assets/icons/pizza.svg')
+}
+
+.equi-txt {
+    position: absolute;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    width: 60px;
+    height: 16.55px;
+    margin-left: 80px;
+    line-height: 25px;
+    margin-top: 5px;
+    color: #215512;
+}
+
+.equi-input {
+    position: absolute;
+    width: 385px;
+    height: 71px;
+    top: 50px;
+    background: #FFFFFF;
+    border: 2px solid #215512;
+    box-sizing: border-box;
+    border-radius: 10px;
+}

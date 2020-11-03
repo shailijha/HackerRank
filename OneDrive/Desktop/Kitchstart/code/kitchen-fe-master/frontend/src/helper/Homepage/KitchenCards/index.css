@@ -1,0 +1,38 @@
+.test-card {
+    position: relative;
+    width: 290px;
+    height: 365px;
+    margin-top: 50px;
+    /* margin-left: 100px; */
+    border: none;
+    overflow: hidden;
+}
+
+.img-holder {
+    position: relative;
+}
+.img-holder img {
+    border-radius: 10px;
+}
+.kitchen-fav-holder {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    right: 10px;
+}
+
+.kitchen-fav-holder .verified {
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    color: #000;
+    border-radius: 5px;
+    float: left;
+    padding: 2px 8px;
+    background: rgba(255, 255, 255, 0.943564);
+}
+
+.kitchen-card .content {
+    padding: 10px;
+}

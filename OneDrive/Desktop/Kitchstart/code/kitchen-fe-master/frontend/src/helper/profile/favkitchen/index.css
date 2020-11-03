@@ -1,0 +1,47 @@
+body, html {}
+
+.fav-card {
+    /* position: absolute; */
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 290px;
+    /* height: 365px; */
+    /* margin-left: 100px; */
+    border: none;
+    /* overflow: hidden; */
+}
+
+.fav-text, .fav-kitch-text {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.fav-text {
+    position: absolute;
+    line-height: 22px;
+    text-align: center;
+    color: #215512;
+    /* left: 430px;
+    top: 242px; */
+    width: 660px;
+}
+
+.find-kitchen-btn {
+    border: 3px solid #D7210A;
+    box-sizing: border-box;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+}
+
+.fav-kitch-text {
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 7px;
+    /* identical to box height */
+    letter-spacing: 1.14286px;
+    color: #D7210A;
+}

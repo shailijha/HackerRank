@@ -1,0 +1,62 @@
+[
+    {
+        "id": "09547253-50bd-4fd5-9bf9-8f55a6c23182",
+        "name": "Photoshoot",
+        "createdAt": "2020-07-18T14:02:32.000Z",
+        "updatedAt": "2020-07-18T14:02:32.000Z"
+    },
+    {
+        "id": "2f13d10c-d663-4353-9d12-2376e4fee948",
+        "name": "Cafe",
+        "createdAt": "2020-07-18T13:53:32.000Z",
+        "updatedAt": "2020-07-18T13:53:32.000Z"
+    },
+    {
+        "id": "48feb05d-b343-406e-b5c5-a9aba1e9a80b",
+        "name": "Restaurant",
+        "createdAt": "2020-07-18T14:00:49.000Z",
+        "updatedAt": "2020-07-18T14:00:49.000Z"
+    },
+    {
+        "id": "69a403fd-d933-4fb5-9612-6968a9713063",
+        "name": "Cooking classes",
+        "createdAt": "2020-07-18T14:03:00.000Z",
+        "updatedAt": "2020-07-18T14:03:00.000Z"
+    },
+    {
+        "id": "6cf7cc7b-44d8-4acb-8009-cbaafc5f35c3",
+        "name": "Delivery Only",
+        "createdAt": "2020-07-18T14:00:38.000Z",
+        "updatedAt": "2020-07-18T14:00:38.000Z"
+    },
+    {
+        "id": "6db9e01b-dcf2-4095-acc6-de76c7c2e308",
+        "name": "Recipe Testing",
+        "createdAt": "2020-07-18T14:02:52.000Z",
+        "updatedAt": "2020-07-18T14:02:52.000Z"
+    },
+    {
+        "id": "82f17389-3e0e-4052-b470-cb498e7da86a",
+        "name": "Food Production",
+        "createdAt": "2020-07-18T14:02:41.000Z",
+        "updatedAt": "2020-07-18T14:02:41.000Z"
+    },
+    {
+        "id": "88ad4ebf-2bf0-4036-aa24-f5a50a0b0537",
+        "name": "Resto Bar",
+        "createdAt": "2020-07-18T14:02:07.000Z",
+        "updatedAt": "2020-07-18T14:02:07.000Z"
+    },
+    {
+        "id": "c26cbda7-06af-48db-8d11-784667eb9ca4",
+        "name": "Take Away",
+        "createdAt": "2020-07-18T14:01:03.000Z",
+        "updatedAt": "2020-07-18T14:01:03.000Z"
+    },
+    {
+        "id": "ca5f8438-74f8-4104-92c9-ef0cb9a88e26",
+        "name": "Caterer",
+        "createdAt": "2020-07-18T14:02:16.000Z",
+        "updatedAt": "2020-07-18T14:02:16.000Z"
+    }
+]

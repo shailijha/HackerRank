@@ -1,0 +1,154 @@
+[
+    {
+        "id": "00ec83c9-ce45-429a-b719-b5a816f2fb02",
+        "name": "Toilets",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:25:19.000Z",
+        "updatedAt": "2020-07-18T14:25:19.000Z"
+    },
+    {
+        "id": "0a82d6f6-f104-48c5-a31f-47cc4250cc42",
+        "name": "Sink",
+        "category": "Cleaning",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:27:04.000Z",
+        "updatedAt": "2020-07-18T14:27:04.000Z"
+    },
+    {
+        "id": "21f5577d-926b-4441-86a3-a547f61aa435",
+        "name": "24/7 Access",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:25:03.000Z",
+        "updatedAt": "2020-07-18T14:25:03.000Z"
+    },
+    {
+        "id": "26f38535-453e-400c-ab59-5e1c11053702",
+        "name": "Event Space",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:25:13.000Z",
+        "updatedAt": "2020-07-18T14:25:13.000Z"
+    },
+    {
+        "id": "2a3bcdb3-458d-48dc-89d3-c8ca00a6f2ec",
+        "name": "Power Backup",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:14.000Z",
+        "updatedAt": "2020-07-18T14:24:14.000Z"
+    },
+    {
+        "id": "325959f9-90b7-44af-9532-6a4da5616160",
+        "name": "Containers",
+        "category": "Storage",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:26:51.000Z",
+        "updatedAt": "2020-07-18T14:26:51.000Z"
+    },
+    {
+        "id": "40d2656b-29e8-4385-9ec8-5b73929acbef",
+        "name": "Gas Line",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:28.000Z",
+        "updatedAt": "2020-07-18T14:24:28.000Z"
+    },
+    {
+        "id": "4299959a-6abb-4760-9b4a-eb2fb2db27ff",
+        "name": "Working Tables",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:47.000Z",
+        "updatedAt": "2020-07-18T14:24:47.000Z"
+    },
+    {
+        "id": "64b88433-86f2-4f3c-8f9d-6fe7abc74924",
+        "name": "Dining space",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:39.000Z",
+        "updatedAt": "2020-07-18T14:24:39.000Z"
+    },
+    {
+        "id": "6ea905b7-75f8-4658-8ad2-12d55d23512f",
+        "name": "Refrigerator",
+        "category": "Storage",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:26:07.000Z",
+        "updatedAt": "2020-07-18T14:26:07.000Z"
+    },
+    {
+        "id": "76531925-bc12-45fe-b0c4-b455d2a65793",
+        "name": "Wifi",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:54.000Z",
+        "updatedAt": "2020-07-18T14:24:54.000Z"
+    },
+    {
+        "id": "7b9e5d88-f95f-4315-b828-87af4124d6e8",
+        "name": "Deep Freezer",
+        "category": "Storage",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:26:17.000Z",
+        "updatedAt": "2020-07-18T14:26:17.000Z"
+    },
+    {
+        "id": "9a07ba60-a1f3-4fa0-96ce-f6f2ca2fa550",
+        "name": "Exhaust",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:22.000Z",
+        "updatedAt": "2020-07-18T14:24:22.000Z"
+    },
+    {
+        "id": "b0342f9a-03d0-44ba-9260-e60ebfdc9c77",
+        "name": "Shelves/Racks",
+        "category": "Storage",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:26:43.000Z",
+        "updatedAt": "2020-07-18T14:26:43.000Z"
+    },
+    {
+        "id": "b67cd030-fc2f-4a81-a27e-fd9536df89fa",
+        "name": "Sewage Line",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:23:54.000Z",
+        "updatedAt": "2020-07-18T14:23:54.000Z"
+    },
+    {
+        "id": "d26de845-60ca-4ba6-bb68-887cf6757689",
+        "name": "Industrial Dishwasher",
+        "category": "Cleaning",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:27:18.000Z",
+        "updatedAt": "2020-07-18T14:27:18.000Z"
+    },
+    {
+        "id": "d5e3c6b2-64df-469c-9703-3d6e6e93b865",
+        "name": "Water Supply",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:24:06.000Z",
+        "updatedAt": "2020-07-18T14:24:06.000Z"
+    },
+    {
+        "id": "dd65a427-f686-476e-9eb4-809b25c6493e",
+        "name": "RO Water",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:22:26.000Z",
+        "updatedAt": "2020-07-18T14:22:26.000Z"
+    },
+    {
+        "id": "f210a703-3e88-472f-bf00-4457a139bea3",
+        "name": "Fire safety system",
+        "category": "Basic",
+        "icon_url": "http://icon-url",
+        "createdAt": "2020-07-18T14:25:33.000Z",
+        "updatedAt": "2020-07-18T14:25:33.000Z"
+    }
+]

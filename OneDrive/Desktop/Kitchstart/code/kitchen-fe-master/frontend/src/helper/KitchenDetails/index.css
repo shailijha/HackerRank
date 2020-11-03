@@ -1,0 +1,207 @@
+.body, html {
+    /* position: absolute; */
+    min-height: 100vh;
+}
+
+.detail-img {
+    position: absolute;
+    background: url('./../../assets/images/Rectangle.png');
+    width: 1500px;
+    height: 501px;
+    /* resize: both;
+    display: block; */
+    /* overflow: hidden; */
+    background-size: contain;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+}
+
+.detail-title, .detail-equi, .detail-store {
+    position: absolute;
+    width: 212px;
+    height: 41px;
+    background: #D7210A;
+}
+
+.detail-title {
+    left: -80px;
+    top: 480px;
+}
+
+.detail-equi {
+    left: -80px;
+    top: 680px;
+}
+
+.detail-store {
+    left: -80px;
+    top: 1050px;
+}
+
+.detail-title-txt {
+    font-family: SignPainter;
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.address {
+    position: absolute;
+    width: 300px;
+    height: 56px;
+    left: -80px;
+    top: 550px;
+    text-align: justify;
+    font-family: SinhalaMN;
+    font-size: 15px;
+    line-height: 16px;
+    word-spacing: 1.1px;
+    letter-spacing: 1.14286px;
+    color: #000000;
+}
+
+.deatil-description, .detail-rect-title, .detail-enquire-txt {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.deatil-description {
+    position: absolute;
+    width: 496px;
+    height: 97px;
+    left: -80px;
+    top: 600px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 14px;
+    color: #080808;
+}
+
+.detail-rectangle {
+    position: absolute;
+    width: 360px;
+    height: 367px;
+    left: 877px;
+    top: 540px;
+    background: rgba(33, 85, 18, 0.9);
+    box-shadow: 0px 5px 8px rgba(126, 120, 120, 0.5);
+    border-radius: 10px;
+}
+
+.detail-rect-title {
+    position: absolute;
+    width: 289px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #FFFFFF;
+    margin-left: -100px;
+}
+
+.detail-rect-box {
+    width: 114px;
+    height: 29px;
+    left: 20px;
+    top: 40px;
+}
+
+.detail-rect-box-text {
+    position: absolute;
+    font-family: SinhalaMN;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: #FFFFFF;
+}
+
+.detail-rect-box {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+}
+
+.equi-img {
+    position: absolute;
+    /* margin-top: -5px;
+    margin-left: 30px; */
+    /* content: url('./../../assets/icons/fire-extinguisher.svg'); */
+    fill: black;
+}
+
+.detail-space {
+    position: absolute;
+    width: 285px;
+    height: 19px;
+    left: 90px;
+    top: 240px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 18px;
+    /* identical to box height */
+    letter-spacing: 1.71429px;
+    color: #FDFDFD;
+}
+
+.detail-enquire {
+    position: absolute;
+    width: 109px;
+    height: 30px;
+    margin-top: 280px;
+    margin-left: 230px;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.detail-enquire-txt {
+    font-weight: 'bold';
+    color: #FDFDFD;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.equi-list {
+    /* position: absolute; */
+    /* width: 200px; */
+    height: 12px;
+    /* margin-left: 100px; */
+    margin-top: 30px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    /* line-height: 20px; */
+    text-align: justify;
+    /* identical to box height */
+    color: #030303;
+}
+
+.detail-place {
+    position: absolute;
+    width: 109px;
+    height: 38px;
+    bottom: 35.59%;
+    background: rgba(88, 87, 87, 0.7);
+    mix-blend-mode: normal;
+    opacity: 0.9;
+}
+
+.detail-txt {
+    font-family: SinhalaMN;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23px;
+    text-align: justify;
+    color: #FFFFFF;
+    margin-top: 8px;
+}
+
+.equi-detail {
+    position: 'absolute';
+    margin-top: 500px;
+    /* margin-left: -100; */
+}
